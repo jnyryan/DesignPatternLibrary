@@ -6,5 +6,8 @@ As design patterns are usually complimentary most of the project will contain mo
 
 	CommandPaternApp (c#)
 	- Command Pattern
-	- Factory Pattern
+	- Abstract Factory Pattern
 	- NullObject Pattern
+
+	BridgePatternApp (c#/.net4)
+	- Bridge Pattern
